@@ -26,15 +26,21 @@ A simple web application for encrypting and decrypting text using AES encryption
 
 3. Open index.html in your browser:
   Double-click the file or use a live server extension in your code editor.
+
 Technologies Used
 
     HTML: Structure of the web page.
     CSS: Styling and animations.
     JavaScript: Logic for encryption and decryption.
+
 Screenshots:
+
 1.Encrypting text with a key:
+
 ![image](https://github.com/user-attachments/assets/6b190b28-248b-48d6-8e1b-daaec29cd22c)
+
 2.Decrypting text with the correct key:
+
 ![image](https://github.com/user-attachments/assets/0d86b6e1-43b9-4e66-ac9e-405eaed563f0)
 
 
