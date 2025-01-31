@@ -18,4 +18,5 @@ A simple web application for encrypting and decrypting text using AES encryption
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-encryption-app.git
+   git clone https://github.com/gamidiravindra/Text-Encryption-and-Decryption.git
+   
